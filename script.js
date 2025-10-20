@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Hi im cbft a editor of 2 years, welcome to my site feel free to look at my socials (this site is still in the works)",
+    "Hi im Slyce a editor of 2 years, welcome to my site feel free to look at my socials (this site is still in the works)",
     "\"Hello, World!\""
   ];
   let bioText = '';
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
