@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "CBFT";
+  const name = "Slyce";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -670,3 +670,4 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
